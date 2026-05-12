@@ -6,7 +6,7 @@ excluded-patches = "'Alternative thumbnails' 'Return YouTube Dislike' 'Custom br
 [Instagram]
 patches-source = "crimera/piko"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-#arch = "arm64-v8a"
+arch = "arm64-v8a"
 
 [Pinterest]
 patches-source = "binarymend/morphe-patches"
@@ -16,4 +16,4 @@ arch = "arm64-v8a"
 [Symfonium]
 patches-source = "binarymend/morphe-patches"
 uptodown-dlurl = "https://symfonium.en.uptodown.com/android"
-#arch = "arm64-v8a"
+arch = "arm64-v8a"

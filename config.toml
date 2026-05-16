@@ -12,8 +12,3 @@ arch = "arm64-v8a"
 patches-source = "binarymend/morphe-patches"
 uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
 arch = "arm64-v8a"
-
-[Symfonium]
-patches-source = "binarymend/morphe-patches"
-uptodown-dlurl = "https://symfonium.en.uptodown.com/android"
-arch = "arm64-v8a"
